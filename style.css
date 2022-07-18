@@ -1,0 +1,10 @@
+.decode{
+    margin-top: -108px !important;
+    margin-left: -414px !important;
+}
+#decode,#encode{
+    border-radius: 50px;
+    border: black solid 1px;
+    text-align: center;
+
+}
